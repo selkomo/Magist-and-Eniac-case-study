@@ -12,15 +12,15 @@ Working as a diverse team of three with different professional backgrounds and s
 * **Markdown** & diverse **Google Tools** for professional documentation.
 
 ## Key Learnings
-* **Translating Business to Tech:** Successfully translated abstract corporate questions (e.g., "Is the platform reliable?") into concrete SQL queries measuring delivery delays, geographic hotspots, and seller counts.
-* **Geographical & Operational Insights:** Gained deep insights into logistics by mapping out which specific Brazilian cities suffer from severe shipping delays and diagnosing the root causes behind them.
-* **Agile Teamwork & Communication:** Collaborative project work in a versatile team. We leveraged alignment meetings, rigorous scope discussions for filtering what was essential and optimized our time management under tight deadlines.
+* **Translating business to tech:** Successfully translated abstract corporate questions (e.g., "Is the platform reliable?") into concrete SQL queries measuring delivery delays, geographic hotspots, and seller counts.
+* **Geographical & operational insights:** Gained deep insights into logistics by mapping out which specific Brazilian cities suffer from severe shipping delays and diagnosing the root causes behind them.
+* **Agile teamwork & communication:** Collaborative project work in a versatile team. We leveraged alignment meetings, rigorous scope discussions for filtering what was essential and optimized our time management under tight deadlines.
 * **Trust and accountability** By dividing our tasks, we learned to trust in each other's skills.
-* **Data-Driven Storytelling:** We learned to combine quantitative metrics (financial margins, price ranges, review scores) with qualitative data (customer delivery complaints) to challenge a marketplace's true operational reliability.
+* **Data-driven storytelling:** We learned to combine quantitative metrics (financial margins, price ranges, review scores) with qualitative data (customer delivery complaints) to challenge a marketplace's true operational reliability.
 
 ## Challenges Overcame
 * **Unclear initial goals and time management:** Figuring out what the project prompt actually means and agreeing on a shared direction while managing our time while meeting all the deadlines.
-* **Managing Diverse Perspectives:** Aligning three team members with different starting knowledge levels required open communication and active listening. We turned this into a strength by heavily debating analytical approaches until we reached a stronger, peer-reviewed consensus.
+* **Managing diverse perspectives:** Aligning three team members with different starting knowledge levels required open communication and active listening. We turned this into a strength by heavily debating analytical approaches until we reached a stronger, peer-reviewed consensus.
 
 ## Additional Reflections
 This project reinforced that **Data Science is as much about human collaboration and business strategy as it is about code**. A platform might look profitable based on transaction volume alone, but deep-diving into delivery performance, geographical bottlenecks, and competitive density often reveals the true operational risks that can make or break a market expansion.
