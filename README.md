@@ -1,7 +1,7 @@
 # Project Reflection: Eniac Market Entry Strategy via Magist
 
 ## Summary
-This project evaluates whether **Eniac**, a tech-retail company specializing in Apple products and accessories (iPhones, Macs, smartwatches..), should sign a three-year contract with the Brazilian marketplace **Magist** to enter the Brazilian market. 
+This project evaluates whether **Eniac**, a tech-retail company specializing in Apple products and accessories (such as smartphones, macs, smartwatches..), should sign a three-year contract with the Brazilian marketplace **Magist** to enter the Brazilian market. 
 Working as a diverse team of three with different professional backgrounds and skill sets, we conducted a deep-dive assessment into delivery times, delayed shipments and logistics bottlenecks. Furthermore, we evaluated customer review scores, the pricing structures of available tech products, and Magist's overall profitability. After incorporating expert feedback from our course instructor, we synthesized our findings into a strategic business recommendation which we presented to our course and our fictional CEO.
 
 ## Languages and Libraries Used
